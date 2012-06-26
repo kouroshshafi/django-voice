@@ -44,6 +44,9 @@ and urls.py like this:
 Remember to create and save at least one Type and Status model instance.
 
 That's all you need to run django-voice.
+Localisation
+=======
+Working on localisation
 
 AUTHORS
 =======
