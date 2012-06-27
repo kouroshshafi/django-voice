@@ -1,0 +1,278 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-26 20:25-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: djangovoice/views.py:49
+msgid "Open Feedback"
+msgstr ""
+
+#: djangovoice/views.py:52
+msgid "Closed Feedback"
+msgstr ""
+
+#: djangovoice/views.py:55
+msgid "My Feedback"
+msgstr ""
+
+#: djangovoice/views.py:58 djangovoice/templates/djangovoice/detail.html:4
+#: djangovoice/templates/djangovoice/feedback_base.html:16
+#: djangovoice/templates/djangovoice/submit.html:4
+#: djangovoice/templates/djangovoice/submit.html:9
+#: djangovoice/templates/djangovoice/widget.html:9
+msgid "Feedback"
+msgstr ""
+
+#: djangovoice/views.py:111
+msgid "Thanks for feedback."
+msgstr ""
+
+#: djangovoice/views.py:117
+msgid "Form is invalid."
+msgstr ""
+
+#: djangovoice/templates/djangovoice/container.html:12
+msgid "DjangoVoice"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/delete.html:4
+#: djangovoice/templates/djangovoice/detail.html:9
+msgid "Delete"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/delete.html:7
+msgid ""
+"Are you sure you wish to delete this feedback item completely, and all of "
+"the comments associated with it?"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/delete.html:8
+msgid "There is <strong>no way to undo this!</strong>"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/delete.html:12
+msgid "Delete Permenantly"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/delete.html:12
+msgid "or"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/delete.html:12
+msgid "leave everything as it is"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:8
+#: djangovoice/templates/djangovoice/edit.html:4
+msgid "Edit"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:16
+msgid "Duplicate of"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:24
+#, python-format
+msgid ""
+"\n"
+"        from %(score.num_votes)s Vote%(score.num_votes|pluralize)s\n"
+"        "
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:53
+#: djangovoice/templates/djangovoice/list.html:44
+msgid "Submitted by:"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:54
+#: djangovoice/templates/djangovoice/detail.html:55
+#: djangovoice/templates/djangovoice/list.html:46
+msgid "View profile"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:57
+#: djangovoice/templates/djangovoice/list.html:52
+msgid "Submitted anonymously"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:60
+#: djangovoice/templates/djangovoice/detail.html:98
+#: djangovoice/templates/djangovoice/list.html:56
+msgid "on"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:69
+#, python-format
+msgid ""
+"\n"
+"    Comments (%(comment_count)s)\n"
+"    "
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:86
+msgid "Staff"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:91
+msgid "From:"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:93
+msgid "you"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:98
+msgid "at"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:108
+msgid "No one has commented. Have your say."
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:112
+msgid "Leave a comment"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/detail.html:123
+msgid "Post comment"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/edit.html:15
+msgid "Save"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:8
+msgid "Latest feedback"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:19
+#: djangovoice/templates/djangovoice/sidebar.html:7
+#: djangovoice/templates/djangovoice/sidebar.html:17
+msgid "All"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:20
+msgid "Open"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:21
+msgid "Closed"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:22
+msgid "Mine"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:24
+msgid "Subscribe to the feedback RSS feed"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:39
+msgid "Back to mainpage"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:44
+msgid "Sign out"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:51
+msgid "Sign in"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:64
+msgid "Submit feedback"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/feedback_base.html:99
+msgid "Powered by django-voice"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:38
+#, python-format
+msgid "comment%(comment_count|pluralize)s"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:61
+msgid "PRIVATE"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:70
+msgid "first"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:71
+msgid "previous"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:75
+msgid "Page"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:75
+msgid "of"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:79
+msgid "next"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:80
+msgid "last"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/list.html:85
+msgid ""
+"No one has contributed any feedback yet. Be the first and submit some "
+"feedback!"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/sidebar.html:3
+msgid "Status"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/sidebar.html:13
+msgid "Type"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/submit.html:20
+#: djangovoice/templates/djangovoice/widget.html:46
+msgid "Submit"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/widget.html:17
+msgid "Share your thoughts with us."
+msgstr ""
+
+#: djangovoice/templates/djangovoice/widget.html:26
+msgid "Title (required)"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/widget.html:29
+msgid "Write your feedback here."
+msgstr ""
+
+#: djangovoice/templates/djangovoice/widget.html:53
+msgid "Please login to use feedback application."
+msgstr ""
+
+#: djangovoice/templates/djangovoice/includes/fields.html:8
+msgid "required"
+msgstr ""
+
+#: djangovoice/templates/djangovoice/tags/widget.html:17
+msgid "feedback"
+msgstr ""
